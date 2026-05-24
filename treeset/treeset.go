@@ -11,7 +11,7 @@
 //   Range (in-order)        O(n)
 package treeset
 
-import "github.com/sachin/go-stl/treemap"
+import "github.com/sachinraghuwanshiofficial-blip/sac-stl/treemap"
 
 // Set is a generic ordered set.
 type Set[T any] struct {

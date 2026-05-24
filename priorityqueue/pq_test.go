@@ -3,7 +3,7 @@ package priorityqueue_test
 import (
 	"testing"
 
-	"github.com/sachin/go-stl/priorityqueue"
+	"github.com/sachinraghuwanshiofficial-blip/sac-stl/priorityqueue"
 )
 
 func TestMinHeap(t *testing.T) {

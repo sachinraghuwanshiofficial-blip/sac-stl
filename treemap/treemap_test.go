@@ -3,7 +3,7 @@ package treemap_test
 import (
 	"testing"
 
-	"github.com/sachin/go-stl/treemap"
+	"github.com/sachinraghuwanshiofficial-blip/sac-stl/treemap"
 )
 
 func intLess(a, b int) bool { return a < b }

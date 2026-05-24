@@ -3,7 +3,7 @@ package hashmap_test
 import (
 	"testing"
 
-	"github.com/sachin/go-stl/hashmap"
+	"github.com/sachinraghuwanshiofficial-blip/sac-stl/hashmap"
 )
 
 func TestHashMap(t *testing.T) {

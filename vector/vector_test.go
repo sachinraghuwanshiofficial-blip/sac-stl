@@ -3,7 +3,7 @@ package vector_test
 import (
 	"testing"
 
-	"github.com/sachin/go-stl/vector"
+	"github.com/sachinraghuwanshiofficial-blip/sac-stl/vector"
 )
 
 func TestPushPopBack(t *testing.T) {

@@ -3,7 +3,7 @@ package treeset_test
 import (
 	"testing"
 
-	"github.com/sachin/go-stl/treeset"
+	"github.com/sachinraghuwanshiofficial-blip/sac-stl/treeset"
 )
 
 func TestTreeSet(t *testing.T) {

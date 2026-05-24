@@ -3,7 +3,7 @@ package queue_test
 import (
 	"testing"
 
-	"github.com/sachin/go-stl/queue"
+	"github.com/sachinraghuwanshiofficial-blip/sac-stl/queue"
 )
 
 func TestQueue(t *testing.T) {

@@ -3,7 +3,7 @@ package hashset_test
 import (
 	"testing"
 
-	"github.com/sachin/go-stl/hashset"
+	"github.com/sachinraghuwanshiofficial-blip/sac-stl/hashset"
 )
 
 func TestHashSet(t *testing.T) {

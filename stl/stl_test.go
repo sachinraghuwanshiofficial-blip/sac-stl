@@ -3,7 +3,7 @@ package stl_test
 import (
 	"testing"
 
-	"github.com/sachin/go-stl/stl"
+	"github.com/sachinraghuwanshiofficial-blip/sac-stl/stl"
 )
 
 func TestVectorFreeFunctions(t *testing.T) {

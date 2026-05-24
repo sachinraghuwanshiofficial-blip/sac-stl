@@ -6,13 +6,13 @@ import (
 	"container/list"
 	"testing"
 
-	"github.com/sachin/go-stl/hashmap"
-	"github.com/sachin/go-stl/hashset"
-	"github.com/sachin/go-stl/priorityqueue"
-	"github.com/sachin/go-stl/queue"
-	"github.com/sachin/go-stl/stack"
-	"github.com/sachin/go-stl/treemap"
-	"github.com/sachin/go-stl/vector"
+	"github.com/sachinraghuwanshiofficial-blip/sac-stl/hashmap"
+	"github.com/sachinraghuwanshiofficial-blip/sac-stl/hashset"
+	"github.com/sachinraghuwanshiofficial-blip/sac-stl/priorityqueue"
+	"github.com/sachinraghuwanshiofficial-blip/sac-stl/queue"
+	"github.com/sachinraghuwanshiofficial-blip/sac-stl/stack"
+	"github.com/sachinraghuwanshiofficial-blip/sac-stl/treemap"
+	"github.com/sachinraghuwanshiofficial-blip/sac-stl/vector"
 )
 
 const N = 100_000
