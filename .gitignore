@@ -1,0 +1,23 @@
+# Binaries
+*.exe
+*.out
+*.test
+
+# Go build cache
+/vendor/
+
+# Benchmark outputs
+*.bench
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Claude Code
+.claude/
